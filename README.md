@@ -1,4 +1,4 @@
-# MicroservicesShopFrontend
+# Angular App with angular-auth-oidc-client library to integrate with Open ID connect and OAuth2 (Keycloak) 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.2.
 
